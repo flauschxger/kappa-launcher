@@ -1,4 +1,3 @@
-![alt text](https://cdn.discordapp.com/attachments/534004815160934410/674660498754764847/kappa64.png)
 Kappa Launcher
 ============
 
