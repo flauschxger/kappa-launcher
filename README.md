@@ -19,7 +19,7 @@ Kappa Launcher is a simple bash script that uses rofi to display and launch your
 ### Install using ```make```
 ```bash
 # Clone the repo
-$ git clone https://github.com/jp1995/kappa-launcher
+$ git clone https://github.com/flauschxger/kappa-launcher
 
 # Change your current directory to kappa-launcher
 $ cd kappa-launcher
@@ -28,7 +28,7 @@ $ cd kappa-launcher
 $ sudo make install
 ```
 
-### AUR package
+### AUR package (This is the package from the original creator)
 For Arch based distros, an [AUR package](https://aur.archlinux.org/packages/kappa-launcher-git/) is available at
 ```bash
 yay -S kappa-launcher-git
